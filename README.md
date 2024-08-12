@@ -1,3 +1,3 @@
 # belajar1
 
-[https://github.com/danangzx/belajar1/blob/1e9eda4cdcb40e7af0466026765f1c4e6f1764d1/index.html#L5-L10](https://github.com/danangzx/belajar1/blob/dd5e6108e556e09966d8e50a2fd4fa5fc41fac03/index.html#L5-L11)
+[(https://github.com/danangzx/belajar1/blob/7487daf423cd8de84436edfbd5188cd95af67e09/index.html#L6-L10)](https://github.com/danangzx/belajar1/blob/7487daf423cd8de84436edfbd5188cd95af67e09/index.html#L6-L10)
